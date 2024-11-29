@@ -26,7 +26,7 @@ using Leetcode.Trie;
 using Leetcode.WeeklyContest.WeeklyContest420;
 
 
-new ShortestDistanceAfterRoadAdditionQueriesCase().Cases();
+new MinimumTimeToVisitCellInGridCase().Cases();
 
 
 Console.ReadLine();

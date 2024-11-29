@@ -33,9 +33,13 @@ namespace Leetcode._Interfaces
     public interface ISimulationLC : ITopicLC { }
 
     public interface IStackLC : ITopicLC { }
+    public interface IPriorityQueueLC : ITopicLC { }
+
     public interface IMonotonicStackLC : ITopicLC { }
     public interface IGrafLC : ITopicLC { }
     public interface IBreadthFirstLC : ITopicLC { }
+    public interface IHeapLC : ITopicLC { }
+    public interface IShortestPathLC : ITopicLC { }
 
 
 }

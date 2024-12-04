@@ -15,6 +15,10 @@ namespace Leetcode._Interfaces
     public interface IArrayLC : ITopicLC { }
     public interface IMatrixLC : ITopicLC { }
 
+    public interface IStringLC : ITopicLC { }
+    public interface IStringMatchingLC : ITopicLC { }
+
+
     public interface ISortingLC : ITopicLC { }
     public interface IBinarySearchLC : ITopicLC { }
     public interface ITwoPointersLC : ITopicLC { }
@@ -40,6 +44,9 @@ namespace Leetcode._Interfaces
     public interface IBreadthFirstLC : ITopicLC { }
     public interface IHeapLC : ITopicLC { }
     public interface IShortestPathLC : ITopicLC { }
+    public interface IDepthFirstSearchLC : ITopicLC { }
+    public interface IEulerianCircuitLC : ITopicLC { }
+
 
 
 }

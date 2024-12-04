@@ -26,7 +26,7 @@ using Leetcode.Trie;
 using Leetcode.WeeklyContest.WeeklyContest420;
 
 
-new MinimumTimeToVisitCellInGridCase().Cases();
+new MakeStringSubsequenceUsingCyclicIncrementsCase().Cases();
 
 
 Console.ReadLine();

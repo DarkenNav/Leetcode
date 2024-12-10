@@ -26,7 +26,7 @@ using Leetcode.Trie;
 using Leetcode.WeeklyContest.WeeklyContest420;
 
 
-new MakeStringSubsequenceUsingCyclicIncrementsCase().Cases();
+new FindLongestSpecialSubstringThatOccursThriceCase().Cases();
 
 
 Console.ReadLine();

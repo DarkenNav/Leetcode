@@ -46,6 +46,7 @@ namespace Leetcode._Interfaces
     public interface IShortestPathLC : ITopicLC { }
     public interface IDepthFirstSearchLC : ITopicLC { }
     public interface IEulerianCircuitLC : ITopicLC { }
+    public interface IDynamicProgrammingLC : ITopicLC { }
 
 
 

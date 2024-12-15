@@ -11,6 +11,7 @@ using Leetcode.LinkedList;
 using Leetcode.LinkedList.Intro;
 using Leetcode.Other;
 using Leetcode.QueueAndStack;
+using Leetcode.QueueAndStack.PriorityQueue;
 using Leetcode.QueueAndStack.Queue;
 using Leetcode.QueueAndStack.Queue.Intro;
 using Leetcode.QueueAndStack.Stack;
@@ -26,7 +27,7 @@ using Leetcode.Trie;
 using Leetcode.WeeklyContest.WeeklyContest420;
 
 
-new FindLongestSpecialSubstringThatOccursThriceCase().Cases();
+new MaximumAveragePassRatio().Cases();
 
 
 Console.ReadLine();
